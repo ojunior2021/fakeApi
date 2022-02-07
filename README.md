@@ -5,14 +5,22 @@ BASE URL https://my-json-server.typicode.com/ojunior2021/fakeApi
 
 Ações da Rota Alunos  
 
-GET Buscar  Todos os Alunos 
-/alunos
+Buscar  Todos os Alunos 
+GET no Endpoint /alunos
 
 GET Buscar Alunos por ID
-/alunos/ID
+GET no Endpoint /alunos/ID
 
 POST Adicionar um aluno
-/fakeApi/alunos
+POsT no Endpoint    /alunos,  Passando o Body {
+        "id": "id",
+        "nome": "nome",
+        "curso": numero do curso
+    }
+   
+   
+Deletar um Aluno
+DLETE no Endpoint/alunos/id
 
 
 
