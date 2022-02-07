@@ -11,7 +11,7 @@ GET no Endpoint /alunos
 Buscar Alunos por ID:
 GET no Endpoint /alunos/ID
 
-POST Adicionar um aluno:
+Adicionar um aluno:
 POST no Endpoint    /alunos,  Passando o Body {
         "id": "id",
         "nome": "nome",
