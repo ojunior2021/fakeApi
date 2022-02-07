@@ -8,8 +8,14 @@
     { "id": 6, "nome": "Milena Clara Melo", "idade": "25", "genero": "F" },
     { "id": 7, "nome": "Ayla Emilly Francisca Cardoso", "idade": "25", "genero": "F" },
    
+  "alunos": [
+    { "id": 1, "nome": "Marcela da Silva", "curso": 1 },
+    { "id": 2, "nome": "José Luiz Felipe", "curso": 2 },
+    { "id": 3, "nome": "Paulo Rogério", "curso": 3 },
+    { "id": 4, "nome": "Felipe da Cunha", "curso": 1 },
+    { "id": 5, "nome": "Luiza Cardoso Pereira", "curso": 1 }
   ],
-    "empresa": {
+  "empresa": {
     "nome": "Inmetrics"
   }
 }
