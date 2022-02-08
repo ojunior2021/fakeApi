@@ -10,7 +10,8 @@
     { "id": 2, "nome": "Juliana Carvalho", "curso": 1 },
     { "id": 3, "nome": "Oseas Almeida Brito Junior", "curso": 3 },
     { "id": 4, "nome": "Felipe da Cunha", "curso": 1 },
-    { "id": 5, "nome": "Luiza Cardoso Pereira", "curso": 1 }
+    { "id": 5, "nome": "Luiza Cardoso Pereira", "curso": 1 },
+    { "id": 20, "nome": "Carlos Alberto", "curso": 1 }
   ],
   "empresa": {
     "nome": "Inmetrics"
